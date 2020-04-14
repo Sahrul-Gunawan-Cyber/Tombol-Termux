@@ -15,6 +15,6 @@
 
 #cd Tombol-Termux
 
-#Run Now sh Tombol-Termux.sh
+#Run Now python Tombol-Termux.py
 
 #working 100%
